@@ -1,0 +1,13 @@
+Início
+Variáveis
+   p1:real p2:real p3:real p4:real média:real
+ Escreva "nota da p1"
+  Leia nota da p1
+ Escreva "nota da p2"
+  Leia nota da p2
+ Escreva "nota da p3"
+  Leia nota da p3
+ Escreva "nota da p4"
+  Leia nota da p4
+média <- p1+p2+p3+p4/4 
+ Escreva "a média final do aluno é" média 
